@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Text, View } from 'react-native';
 
-class Test extends Component {
+class Home extends Component {
   render() {
     return (
       <View style={{flex: 1}}>

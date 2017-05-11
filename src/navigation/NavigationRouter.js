@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import { StyleSheet } from 'react-native';
 import { Router, Scene } from 'react-native-router-flux';
 import Home from '../containers/Home';
+import Colors from '../themes/Colors'
 
 class NavigationRouter extends Component {
   render() {
